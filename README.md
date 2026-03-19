@@ -19,7 +19,8 @@ It showcases my profile, skills, projects, and resume in a clean and responsive 
 - Bootstrap
 
 ## 📂 Project Structure
-```Portfolio_main-main/
+```
+Portfolio_main-main/
 │── index.html
 │── css/
 │   ├── bootstrap.css
