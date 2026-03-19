@@ -17,3 +17,22 @@ It showcases my profile, skills, projects, and resume in a clean and responsive 
 - CSS3
 - JavaScript
 - Bootstrap
+
+## 📂 Project Structure
+```
+Portfolio_main-main/
+│── index.html
+│── css/
+│   ├── bootstrap.css
+│   └── style.css
+│── js/
+│   └── script.js
+│── img/
+│   ├── girish.png
+│   ├── glogo.jpeg
+│   ├── image5.jfif
+│   ├── image6.jfif
+│   ├── image7.jfif
+│   └── resume files (.pdf)
+│── README.md
+```
