@@ -38,6 +38,6 @@ Portfolio_main-main/
 ```
 ## ▶️ How to Run
 1. Clone the repository
-2. git clone https://github.com/girishchaudhari007/portfolio.git
+2. git clone https://github.com/girishchaudhari007/portfolio_main
 3. Open the project folder
 4. Run the project by opening `index.html` in your browser
