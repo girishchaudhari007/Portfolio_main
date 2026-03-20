@@ -45,6 +45,3 @@ Portfolio_main-main/
 ## 👨‍💻 Author
 Girish Chaudhari  
 GitHub: https://github.com/girishchaudhari007
-
-
-lkgnlxglnslxhgnsaligsamgshatsannv
